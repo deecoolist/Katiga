@@ -206,10 +206,9 @@ You can insert a table of contents using the marker `[TOC]`:
 You can render *LaTeX* mathematical expressions using **MathJax**, as on [math.stackexchange.com][1]:
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+\begin{equation*}
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\end{equation*}
 
 > **Tip:** To make sure mathematical expressions are rendered properly on your website, include **MathJax** into your template:
 
