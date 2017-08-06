@@ -1,13 +1,4 @@
-Welcome to Katiga!
-==================
+Selamat Datang di Katiga!
+=========================
 
-This is landing page for related information about Katiga's project.
-
-  [1]: http://math.stackexchange.com/
-  [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
-  [3]: https://github.com/jmcmanus/pagedown-extra "Pagedown Extra"
-  [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-  [5]: https://code.google.com/p/google-code-prettify/
-  [6]: http://highlightjs.org/
-  [7]: http://bramp.github.io/js-sequence-diagrams/
-  [8]: http://adrai.github.io/flowchart.js/
+Katiga merupakan proyek sumber bebas (open source) yang bertujuan mengembangkan perangkat lunak untuk mendukung kegiatan pertaniaan dan perkebunan. Nama proyek Katiga ini berasal dari salah satu kata dari Basa Sunda yang berarti kemarau. Dengan dukungan Electron sebagai dasar aplikasi, sehingga memungkinkan dalam waktu singkat menghasilkan cross platform perangkat lunak.
