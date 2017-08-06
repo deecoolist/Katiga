@@ -1,3 +1,5 @@
+![Logo Katiga](/logo.svg)
+
 Selamat Datang di Katiga!
 =========================
 
