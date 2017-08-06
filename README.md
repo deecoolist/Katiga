@@ -9,9 +9,9 @@ Saat ini masih dalam taraf pengembangan konsep dan desain, seiring dengan waktu 
 
 *Salam hangat,*
 
+-------------------
 [Katiga Team](mailto:support@kati.ga "Email Support Katiga") | [Dokumentasi](https://docs.kati.ga "Halaman Dokumentasi dihost oleh Gibook") | [API Dokumentasi](https://api.docs.kati.ga "Halaman API Dokumentasi dihost oleh Gibook") | [FAQ](https://help.kati.ga "Halaman FAQ dihost oleh Gibook")
 
--------------------
 ### MIT License
 
 Copyright 2017 Deni Herdiman (Katiga)
