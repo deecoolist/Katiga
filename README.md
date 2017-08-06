@@ -1,13 +1,13 @@
 Selamat Datang di Katiga!
 =========================
 
-Katiga merupakan proyek sumber bebas (open source) yang bertujuan mengembangkan perangkat lunak untuk mendukung kegiatan pertaniaan dan perkebunan. Nama proyek Katiga ini berasal dari salah satu kata dari Basa Sunda yang berarti kemarau. Dengan dukungan Electron sebagai dasar aplikasi, sehingga memungkinkan dalam waktu singkat menghasilkan cross platform perangkat lunak.
+Katiga merupakan proyek sumber bebas (open source) yang bertujuan mengembangkan perangkat lunak untuk mendukung kegiatan pertaniaan dan perkebunan. Nama proyek Katiga ini berasal dari salah satu kata dari Basa Sunda yang berarti kemarau. Dengan dukungan [Electron](https://electron.atom.io) sebagai dasar aplikasi, sehingga memungkinkan dalam waktu singkat menghasilkan cross platform perangkat lunak.
 
 Saat ini masih dalam taraf pengembangan konsep dan desain, seiring dengan waktu kita akan merilis hasilnya dan memperbaharuinya. Terima kasih
 
-Salam hangat,
--------------
-[Katiga Team](mailto:support@kati.ga) | [Dokumentasi](https://docs.kati.ga) | [API Dokumentasi](https://api.docs.kati.ga) | [FAQ](https://help.kati.ga)
+*Salam hangat,*
+
+[Katiga Team](mailto:support@kati.ga "Email Support Katiga") | [Dokumentasi](https://docs.kati.ga "Halaman Dokumentasi dihost oleh Gibook") | [API Dokumentasi](https://api.docs.kati.ga "Halaman API Dokumentasi dihost oleh Gibook") | [FAQ](https://help.kati.ga "Halaman FAQ dihost oleh Gibook")
 
 Di Bawah Lisensi;
 -------------------
