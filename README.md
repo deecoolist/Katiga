@@ -9,9 +9,9 @@ Salam hangat,
 -------------
 [Katiga Team](mailto:support@kati.ga) | [Dokumentasi](https://docs.kati.ga) | [API Dokumentasi](https://api.docs.kati.ga) | [FAQ](https://help.kati.ga)
 
-##Di Bawah Lisensi;
+Di Bawah Lisensi;
 -------------------
-MIT License
+### MIT License
 
 Copyright 2017 Deni Herdiman (Katiga)
 
