@@ -9,7 +9,6 @@ Saat ini masih dalam taraf pengembangan konsep dan desain, seiring dengan waktu 
 
 [Katiga Team](mailto:support@kati.ga "Email Support Katiga") | [Dokumentasi](https://docs.kati.ga "Halaman Dokumentasi dihost oleh Gibook") | [API Dokumentasi](https://api.docs.kati.ga "Halaman API Dokumentasi dihost oleh Gibook") | [FAQ](https://help.kati.ga "Halaman FAQ dihost oleh Gibook")
 
-Di Bawah Lisensi;
 -------------------
 ### MIT License
 
