@@ -7,7 +7,7 @@ Saat ini masih dalam taraf pengembangan konsep dan desain, seiring dengan waktu 
 
 Salam hangat,
 -------------
-[Katiga Team] mailto:support@kati.ga
-[Dokumentasi] https://docs.kati.ga
-[API Dokumentasi] https://api.docs.kati.ga
-[FAQ] https://help.kati.ga
+[Katiga Team](mailto:support@kati.ga)
+[Dokumentasi](https://docs.kati.ga)
+[API Dokumentasi](https://api.docs.kati.ga)
+[FAQ](https://help.kati.ga)
