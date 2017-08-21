@@ -1,3 +1,9 @@
+---
+template: default.html
+title: Katiga
+excerpt: Katiga merupakan proyek sumber bebas (open source).
+---
+
 ![Logo Katiga](logo.svg "Katiga Logo")
 
 Selamat Datang di Katiga!
