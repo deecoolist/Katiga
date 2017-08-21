@@ -14,7 +14,7 @@ import 'autotrack/lib/plugins/social-widget-tracker';
  * The tracking ID for your Google Analytics property.
  * https://support.google.com/analytics/answer/1032385
  */
-const TRACKING_ID = 'UA-40829935-1';
+const TRACKING_ID = '';
 
 /**
  * Bump this when making backwards incompatible changes to the tracking
