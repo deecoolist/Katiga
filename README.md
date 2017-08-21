@@ -1,5 +1,5 @@
 ---
-template: default.html
+template: templates/default.html
 title: Katiga
 excerpt: Katiga merupakan proyek sumber bebas (open source).
 ---
